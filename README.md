@@ -1,9 +1,4 @@
--  Hi, I’m G.  I’m a Los Angeles–based designer who discovered a passion for design at two
-years old while tinkering with my family’s computer. This early curiosity led me to explore design, tech,
-fashion, sports, and art—eventually earning a Graphic Design degree from Cal State Long Beach. Over the past
-10+ years, I’ve helped brands refine their footwear, apparel, and immersive experiences, focusing on visuals
-that connect with real people. My approach blends creativity and strategy, ensuring each project both stands
-out and resonates with real-world needs.
+Growing up on the internet shaped my taste for design long before I knew what to call it. Getting a pink 4GB iPod mini was the first time I realized why I care so much about how hardware and interface work together. I have spent the last decade operating on the belief that design is fundamentally how a product works. As a creative translator, I use a question first mindset to start with the user experience and work back toward the technical execution. This fuels a performance to iteration loop where I can go from a strategic problem to a high fidelity prototype in a single afternoon. From managing technical sampling for a Jordan PE to designing for the runway in Paris, I take end to end ownership of the details and the cultural context that makes a brand feel real. I want to bring this level of craft to the team to build products that feel intuitive and obvious for everyone.
 
 
 <!---
